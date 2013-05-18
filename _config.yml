@@ -6,6 +6,7 @@ ALERT_CLASS:
   es: 
   fr: 
   nl: 
+  ru: 
   
 ALERT:
   all: 
@@ -13,18 +14,21 @@ ALERT:
   es: 
   fr: 
   nl: 
+  ru: 
 
 langsorder:
 - id: en
 - id: es
 - id: fr
 - id: nl
+- id: ru
 
 langs:
   en: English
   es: Español
   fr: Français
   nl: Nederlands
+  ru: Русский
 
 safe:        false
 auto:        false
