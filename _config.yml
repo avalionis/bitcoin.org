@@ -2,6 +2,7 @@ DOWNLOAD_VERSION: 0.8.1
 
 ALERT_CLASS:
   all: 
+  ar: 
   en: 
   es: 
   fr: 
@@ -9,6 +10,7 @@ ALERT_CLASS:
   
 ALERT:
   all: 
+  ar: 
   en: 
   es: 
   fr: 
@@ -19,12 +21,14 @@ langsorder:
 - id: es
 - id: fr
 - id: nl
+- id: ar
 
 langs:
   en: English
   es: Español
   fr: Français
   nl: Nederlands
+  ar: ألعربية
 
 safe:        false
 auto:        false
