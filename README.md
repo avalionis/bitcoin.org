@@ -22,7 +22,7 @@ Installing dependencies on older Ubuntu and Debian distributions
 * Translations can be done on transifex https://www.transifex.com/projects/p/bitcoinorg/
 * You must be a native speaker for the language you choose to translate.
 * At least one other reviewer is required.
-* Try to avoid changing the meaning of any statements.
+* Changing the meaning of any statement should be avoided. In doubt, you can open a discussion on transifex.
 * Sentences and popular expressions should be adapted so that they sound native in your language.
 
 ### Add new translations
@@ -41,11 +41,22 @@ You can import all translations (complete and incomplete) from transifex using t
     tx set --auto-remote https://www.transifex.com/projects/p/bitcoinorg/
     tx pull -a -s --skip
     
-Then, you can overwrite any specific translation in the _translations folder by one of these files. You might also need to make sure that each .html files for those languages are up-to-date with their english equivalence. Most of these files are identical with their english version, but some (like resources, community, bitcoin-for-press) can also serve some customized links or content for each language.
+Then, you can overwrite any specific translation in the _translations folder by one of these files. You might also need to make sure that each .html files (including the layout) don't serve outdated content for those languages. You should also make sure that no urls or anchor has been changed.
 
+### Update source english strings
+
+Any change in the english texts can be done through a pull request on github. If your changes affect the html layout of a page, you should apply fallback html code for other languages until they are updated.
+
+    {% case page.lang %}
+    {% when 'fr' %}
+      (outdated french content)
+    {% else %}
+      (up to date english content)
+    {% endcase %}
+    
 ### Update source strings on transifex
 
-**When translation is needed**: If you want all changes you've made to be entirely re-translated, you can simply update the resource file (en.yml) on transifex.
+**When translation is needed**: If you want all changes you've made to be re-translated, you can simply update the resource file (en.yml) on transifex.
 
 **When translation is not needed**: If you are only pushing typo fixes and that you don't want translators to redo all their work again, you can use the transifex client to pull translations, update en.yml and push back all translations at once:
 
@@ -53,7 +64,7 @@ Then, you can overwrite any specific translation in the _translations folder by 
     tx set --auto-remote https://www.transifex.com/projects/p/bitcoinorg/
     tx pull -a -s --skip
     tx set --source -r bitcoinorg.bitcoinorg -l en translations/bitcoinorg.bitcoinorg/en.yml
-    (update the en.yml file)
+    (update en.yml)
     tx push -s -t -f --skip --no-interactive
 
 ## Advanced Usage
