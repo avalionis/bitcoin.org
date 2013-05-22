@@ -1,7 +1,7 @@
 lt:
   about:
-    title: ""
-    pagetitle: "Apie Bitcoin"
+    title: "Apie „Bitcoin“"
+    pagetitle: "Apie „Bitcoin“"
     history: ""
     historytxt1: ""
     historytxt2: ""
@@ -15,12 +15,12 @@ lt:
     technicaltxt4: ""
     technicaltxt5: ""
     technicaltxt6: ""
-    economics: ""
+    economics: "Ekonomikos taisyklės"
     economicsintro: ""
     economicstxt1: ""
     economicstxt2: ""
     economicstxt3: ""
-    stats: ""
+    stats: "Statistika"
     statsintro: ""
     statstxt1: ""
     statstxt2: ""
@@ -28,8 +28,8 @@ lt:
     statstxt4: ""
     statstxt5: ""
   bitcoin-for-businesses:
-    title: "Bitcoin Verslui - Bitcoin"
-    pagetitle: "Bitcoin Verslui"
+    title: "„Bitcoin“ verslui"
+    pagetitle: "„Bitcoin“ verslui"
     summary: "Bitcoin yra labai saugus ir pigus būdas tvarkyti mokėjimus."
     lowfee: "Žemiausi mokesčiai"
     lowfeetext: ""
@@ -43,17 +43,17 @@ lt:
     instanttext: "Bitcoin pervedimai pradedami vos kelias sekundės po užsakymo ir baigiami per 10 minučių. Per tą laiką, pervedimas yra laikomas autentišku, tačiau atšaukiamas. Jei jums reikia akimirksninių pervedimų, rekomenduojame prašyti nedidelio įkainio už operaciją ir naudoti dvigubo-leidimo aptikimo sistemą."
     visibility: "Gaukitė nemokamą matomumą"
     visibilitytext: ""
-    multisig: ""
+    multisig: "Daugialypis parašas"
     multisigtext: ""
     transparency: "Apsaiktos skaidrumas"
     transparencytext: ""
   bitcoin-for-developers:
-    title: "Bitcoin Kūrėjams - Bitcoin"
-    pagetitle: "Bitcoin - Kūrėjams"
+    title: "„Bitcoin“ kūrėjams"
+    pagetitle: "„Bitcoin“ kūrėjams"
     summary: "Bitcoin gali būti panaudotas kuriant nuostabius dalykus ar atsakyti bendriems poreikiams."
     simple: "Paprasčiausia mokėjimų sistema"
     simpletext: ""
-    api: ""
+    api: "Daug trečiosios šalies programų sąsajų (API)"
     apitext: ""
     own: "Galite būti savo finansine systema"
     owntext: ""
@@ -66,10 +66,10 @@ lt:
     micro: "Pigūs mikro apmokėjimai"
     microtext: ""
   bitcoin-for-enthusiasts:
-    title: "Bitcoin Entuziastams - Bitcoin"
-    pagetitle: "Bitcoin Entuziastams"
+    title: "„Bitcoin“ entuziastams"
+    pagetitle: "„Bitcoin“ entuziastams"
     summary: "Bitcoin keičia finansinį pasaulį, suteikiant jums galią kontroliuoti savo pinigus."
-    consensus: ""
+    consensus: "Bitcoin yra visame pasaulyje sutariama"
     consensustext: ""
     network: "Skaitmeniniai pinigai sukurti Internetui"
     networktext: ""
@@ -81,11 +81,11 @@ lt:
     transparencytext: ""
     secure: "Padaro pinigus saugesnius"
     securetext: ""
-    trust: ""
+    trust: "Išsprenžia klausimus su pasitikėjimu bankais"
     trusttext: ""
   bitcoin-for-individuals:
-    title: "Bitcoin asmenims - Bitcoin"
-    pagetitle: "Bitcoin asmenims"
+    title: "„Bitcoin“ asmenims"
+    pagetitle: "„Bitcoin“ asmenims"
     summary: "Bitcoin yra paprasčiausias būdas keistis pinigais už labai mažą kainą."
     mobile: "Mobilūs mokėjimai lengvai"
     mobiletext: "Bitcoin su mobiliaisiais telefonais leidžia jums paprastai mokėti skanuojant-ir-mokant. Nebereiks jums perbraukt kortele, įvesti PIN kodą, ar ant ko nors pasirašyti. Kad gauti Bitcoin apmokėjims, jums tereikės parodyti QR kodą savo Bitcoin piniginęs programoje ir leisti draugui nuskanuoti jūsų telefono ekraną, arba sulieskite savo telefonus (naudojant NFC radijos technologiją)."
@@ -100,8 +100,8 @@ lt:
     anonymous: "Pseudo-anoniminiai internetiniai apmokėjimai"
     anonymoustext: "Anoniminiai apmokėjimai yra mūsų kasdienės dalis - didelė dalis pirkimų realiame gyvenime yra vykdomi be reikalavimo pateikti identifikacija. Bitcoin dabar pristato tokią pačią laisvę internetiniame pasaulyje. Tai jums leis pirkti paslaugas ar aukoti be rentgentogramos vargo. Tačiau, reikia atsiminti jog <a href=\"#you-need-to-know#\"><b>pilnas anonimiškumas reikalauja specialių pastangų</b></a>."
   community:
-    title: ""
-    pagetitle: ""
+    title: "„Bitcoin“ benduomenė"
+    pagetitle: "Bitcoin bendruomenės"
     foundation: ""
     stackexchange: ""
     bitcointalk: ""
@@ -146,8 +146,8 @@ lt:
     walletwebwarningtxt: ""
     walletwebwarningok: ""
   development:
-    title: ""
-    pagetitle: ""
+    title: "„Bitcoin“ plėtra"
+    pagetitle: "„Bitcoin“ plėtra"
     spec: ""
     spectxt: ""
     speclink1: ""
@@ -173,13 +173,13 @@ lt:
     notelicense: ""
     notesync: ""
   foundation:
-    title: ""
-    pagetitle: ""
+    title: "„Bitcoin“ fondas"
+    pagetitle: "„Bitcoin“ fondas"
     mission: ""
     visit: "Apsilankykite Bitcoin Įsteigimo tinklalapyje"
   how-it-works:
-    title: "Kaip Bitcoin veikia?- Bitcoin"
-    pagetitle: "Kaip Bitcoin veikia?"
+    title: "Kaip „Bitcoin“ veikia?"
+    pagetitle: "Kaip „Bitcoin“ veikia?"
     intro: "Tai yra klausimas kuris dažnai sukelia sumaištį. Čia greitas paaiškinimas!"
     basics: "Naujam vartotojui pagrindai"
     basicstxt1: "Kaip nauji vartotojai, jums tik reikia pasirinkti piniginę kuria jūs įrašysit į savo kompiuterį ar į savo mobilujį telefoną. Kai būsite įsirašę savo piniginę, ji generuos jūsų pirma Bitcoin adresą ir jūs galėsite sukurti nauja kada tik prireikės. Jūs galite savo draugams duoti vieną savo Bitcoin adresų kad jie galėtu jums mokėti ar atvirkščiai, jūs galite mokėti savo draugams jei jie duos jums savo adresą. Iš tikro, tai yra ganėtinai panašu į tai kaip elektroninis paštas veikia. Viskas ką jums liko atlikti šiou metu yra įsigyti Bitcoin ir apsaugoti savo piniginę. Kad naudot BItcoin, jums nereikia suvokti techninių detalių."
@@ -193,18 +193,18 @@ lt:
     readmore: ""
     readmoretxt: ""
   index:
-    title: "Bitcoin - Atvirojo kodo P2P elektroninė valiuta"
-    pagetitle: "Atvirojo kodo P2P elektroninė valiuta"
-    listintro: "Bitcoin yra elektroninė valiuta, protokolas ir programinė įranga kuri įgali"
-    list1: "Akimirksninius \"peer-to-peer\" pervedimus"
-    list2: "Pasauliniai apmokėjimai"
-    list3: ""
-    list4: "Ir daug daugiau!"
-    desc: ""
-    license: ""
+    title: "„Bitcoin“"
+    pagetitle: "Atviro kodo <a target=\"_blank\" href=\"http://lt.wikipedia.org/wiki/P2P\">„P2P“</a> elektroninių grynųjų pinigų sistema"
+    listintro: "„Bitcoin“ yra skaitmeninė valiuta, protokolas ir programinė įranga kuri įgalina:"
+    list1: "<b>momentinius</b> lygiarangių sandorius <b>tiesiogiai tarp vartotojų</b>;"
+    list2: "mokėjimus <b>pasaulio mastu</b>;"
+    list3: "<b>žemus arba nulinius</b> tvarkymo mokesčius;"
+    list4: "ir daug daugiau!"
+    desc: "„Bitcoin“ naudoja <a target=\"_blank\" href=\"http://lt.wikipedia.org/wiki/P2P\">lygiarangių</a> technologiją veikti be centrinės institucijos; sandorių valdymas ir monetų gamyba vykdoma <b>kolektyviai tinklu</b>. Taikant daugelį išskirtinių „Bitcoin“ savybių, tai leidžia įdomius panaudojimo būdus, kurie nebuvo galimi taikant ankstesnes mokėjimų sistemas."
+    license: "Tai yra <a href=\"bendruomenė\">bendruomenės</a> kuriama, <a href=\"http://www.fsf.org/about/what-is-free-software\" target=\"_blank\">laisva ir atviro kodo</a> programinė įranga; išleista pagal <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">„MIT“ licenciją</a>."
   resources:
-    title: "Resursai - Bitcoin"
-    pagetitle: "Bitcoin resursai"
+    title: "„Bitcoin“ nuorodos"
+    pagetitle: "„Bitcoin“ nuorodos"
     linkweusecoins: "<a href=\"http://www.weusecoins.com\">Mes naudojame monetas. Pradėkite čia!</a>"
     linkwallets: "<a href=\"#choose-your-wallet#\">Bitcoin piniginės</a>"
     linkwiki: "<a href=\"https://en.bitcoin.it/wiki/Main_Page\">Bitcoin Wikipedija</a>"
@@ -286,7 +286,7 @@ lt:
     help: ""
     helptxt: ""
   vocabulary:
-    title: ""
+    title: "„Bitcoin“ žodynas"
     pagetitle: ""
     summary: ""
     table: ""
@@ -357,31 +357,31 @@ lt:
     menu-bitcoin-for-developers: Kūrėjams
     menu-bitcoin-for-enthusiasts: Entuziastams
     menu-bitcoin-for-press: Spaudai
-    menu-how-it-works: "Kaip tai veikia"
+    menu-how-it-works: "Kaip tai veikia?"
     menu-vocabulary: Žodynas
-    menu-resources: Resursai
+    menu-resources: Nuorodos
     menu-community: Bendruomenė
     menu-development: Plėtra
-    menu-foundation: Pamatai
-    menu-about: Apie
-    button-wallet: "Pasirinkite savo piniginę"
+    menu-foundation: Fondas
+    menu-about: Apie „Bitcoin“
+    button-wallet: "Pasirinkite piniginę"
     button-know: "Jums reikia žinoti"
-    button-support: "Palaikykite Bitcoin"
-    footer: ""
+    button-support: "Palaikykite „Bitcoin“"
+    footer: "© „Bitcoin“ projektas 2009-2013, išleistas pagal <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">„MIT“ licenciją</a>."
   url:
     about: apie
-    bitcoin-for-developers: bitcoin-kūrėjams
-    bitcoin-for-enthusiasts: bitcoin-entuziastams
-    bitcoin-for-individuals: bitcoin-individams
-    bitcoin-for-businesses: bitcoin-verslui
-    bitcoin-for-press: bitcoin-spaudai
-    choose-your-wallet: pasirinkite-savo piniginę
+    bitcoin-for-developers: kūrėjams
+    bitcoin-for-enthusiasts: entuziastams
+    bitcoin-for-individuals: asmenims
+    bitcoin-for-businesses: verslui
+    bitcoin-for-press: spaudai
+    choose-your-wallet: pasirinkite-piniginę
     community: bendruomenė
     development: plėtra
     download: parsisiųsti
-    foundation: pamatas
+    foundation: fondas
     how-it-works: kaip-tai-veikia
-    resources: resursai
+    resources: nuorodos
     secure-your-wallet: apsaugokite-savo-piniginę
     support-bitcoin: palaikykite-bitcoin
     vocabulary: žodynas

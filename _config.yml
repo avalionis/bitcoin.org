@@ -4,26 +4,30 @@ ALERT_CLASS:
   all: 
   en: 
   es: 
-  fr: 
+  fr:
+  lt:
   nl: 
   
 ALERT:
   all: 
   en: 
   es: 
-  fr: 
+  fr:
+  lt:
   nl: 
 
 langsorder:
 - id: en
 - id: es
 - id: fr
+- id: lt
 - id: nl
 
 langs:
   en: English
   es: Español
   fr: Français
+  lt: Lietuvių
   nl: Nederlands
 
 safe:        false
