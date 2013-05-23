@@ -194,13 +194,13 @@ lt:
     readmoretxt: ""
   index:
     title: "„Bitcoin“"
-    pagetitle: "Atviro kodo <a target=\"_blank\" href=\"http://lt.wikipedia.org/wiki/P2P\">„P2P“</a> elektroninių grynųjų pinigų sistema"
+    pagetitle: "Atviro kodo <a target=\"_blank\" href=\"http://bitcoin.org/bitcoin.pdf\">„P2P“ elektroninių pinigų sistema</a>"
     listintro: "„Bitcoin“ yra skaitmeninė valiuta, protokolas ir programinė įranga kuri įgalina:"
     list1: "<b>momentinius</b> lygiarangių sandorius <b>tiesiogiai tarp vartotojų</b>;"
     list2: "mokėjimus <b>pasaulio mastu</b>;"
     list3: "<b>žemus arba nulinius</b> tvarkymo mokesčius;"
     list4: "ir daug daugiau!"
-    desc: "„Bitcoin“ naudoja <a target=\"_blank\" href=\"http://lt.wikipedia.org/wiki/P2P\">lygiarangių</a> technologiją veikiančią be centrinės institucijos; sandorių valdymas ir monetų gamyba vykdoma <b>kolektyviai tinklu</b>. Taikant daugelį išskirtinių „Bitcoin“ savybių leidžiama vykdyti įdomius naudojimo būdus, kurie nebuvo galimi taikant ankstesnes mokėjimų sistemas."
+    desc: "„Bitcoin“ naudoja <a target=\"_blank\" href=\"http://lt.wikipedia.org/wiki/P2P\">lygiarangių</a> technologiją veikiančią be centrinės institucijos; sandorių valdymas ir monetų gavyba vykdoma <b>kolektyviai tinklu</b>. Taikant daugelį išskirtinių „Bitcoin“ savybių leidžiama vykdyti įdomius naudojimo būdus, kurie nebuvo galimi taikant ankstesnes mokėjimų sistemas."
     license: "Tai yra <a href=\"bendruomenė\">bendruomenės</a> kuriama, <a href=\"http://www.fsf.org/about/what-is-free-software\" target=\"_blank\">laisva ir atviro kodo</a> programinė įranga; išleista pagal <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">„MIT“ licenciją</a>."
   resources:
     title: "„Bitcoin“ nuorodos"
@@ -367,7 +367,7 @@ lt:
     button-wallet: "Pasirinkite piniginę"
     button-know: "Jums reikia žinoti"
     button-support: "Palaikykite „Bitcoin“"
-    footer: "© „Bitcoin“ projektas 2009-2013, išleistas pagal <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">„MIT“ licenciją</a>."
+    footer: "© „Bitcoin“ projektas 2009-2013, pagal <a href=\"http://creativecommons.org/licenses/MIT/\" target=\"_blank\">„MIT“ licenciją</a>."
   url:
     about: apie
     bitcoin-for-developers: kūrėjams
